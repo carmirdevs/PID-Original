@@ -1,0 +1,12 @@
+<?php
+// Plantilla sin credenciales. No subir config/config.php real.
+define('RUTA_PROYECTO', 'http://localhost/pid-original/');
+define('NOMBRE_PROYECTO', 'PID ORIGINAL - ENTORNO LOCAL');
+define('DB_HOST', 'localhost');
+define('DB_USER', 'USUARIO_LOCAL');
+define('DB_PASSWORD', 'CAMBIAR_LOCALMENTE');
+define('DB_NAME', 'pid_original_local');
+define('REPORTE_1', 'Semana 5');
+define('REPORTE_2', 'Semana 10');
+define('REPORTE_3', 'Semana 15');
+define('REPORTE_4', 'Reporte Final');

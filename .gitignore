@@ -1,0 +1,12 @@
+# No registrar datos ni credenciales
+config/config.php
+.env
+.env.*
+*.log
+error_log
+archivos/
+.well-known/
+cgi-bin/
+*.bak
+*.sql.gz
+Basededatos/escolarizado_bd.sql
